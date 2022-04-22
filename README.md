@@ -10,5 +10,7 @@
 - This script use to fetch ip address of network interface
 
 ### How to use
-- ./getipaddress.sh
+- This script use for ssh into vagrant vbox
 
+## How to use 
+- ./sshvagrantbox.sh
